@@ -1,65 +1,91 @@
 # Hi, I'm Mustafa 👋
 
- Statistics student at Ankara University
- Interested in Python, Data Science, Machine Learning and Software Development
- Combining statistics and programming to build practical projects
+I'm a **Statistics student at Ankara University** interested in software development, data analysis, and machine learning.
 
-##  What I'm Working With
+I'm currently improving my Python skills and working on projects that combine statistics with programming.
 
-### Data & Statistics
+---
+
+## 📱 Featured Project — Matrix Calculator
+
+**Matrix Calculator** is a mobile application I developed with **React Native, Expo, and TypeScript**.
+
+The app is designed as a practical tool for students and anyone working with linear algebra and matrix calculations.
+
+### What it can do
+
+* Matrix operations up to **6×6**
+* Matrix addition, subtraction, and multiplication
+* Determinant and inverse calculations
+* Rank and RREF
+* LU decomposition
+* Eigenvalues and eigenvectors
+* Linear system solving
+* Exact fractions and radical expressions
+* Complex number calculations
+* Step-by-step calculation results
+* Calculation history and saved matrices
+* PDF export and sharing
+* Multiple display and number formats
+* Dark/light interface options
+
+The application is available on **Google Play** and is actively developed.
+
+**Repository:** [Matrix Calculator](https://github.com/mustafauluturk010/matrix-calculator)
+
+---
+
+## 📊 What I'm Learning
+
+### Python & Data
 
 * Python
 * NumPy
 * Pandas
 * Matplotlib
-* Statistical Analysis
-* Data Visualization
+* Statistical analysis
+* Data visualization
 
-###  Machine Learning
+### Statistics & Machine Learning
 
-* Scikit-learn
-* Feature Engineering
-* Model Validation
-* Time Series Analysis
-* Financial Data
+* Probability and statistics
+* Regression
+* Hypothesis testing
+* Feature engineering
+* Model evaluation
+* Time-series analysis
+* Machine learning
 
-###  Application Development
+### Software Development
 
+* TypeScript
 * React Native
 * Expo
-* Android
-* EAS Build
-* PDF Generation
-* AdMob
+* Git & GitHub
 
-###  Tools
+---
 
-* Git
-* GitHub
-* VS Code
-* npm
+## 🤖 Current Work
 
-##  Featured Projects
+### Titan Prediction Engine
 
-###  Matrix Calculator
+A collaborative machine learning project focused on **financial time-series prediction, feature engineering, model validation, and backtesting**.
 
-A mobile matrix calculator built with React Native and Expo.
+The project is currently being developed privately with a friend.
 
-Features include matrix operations, eigenvalues and eigenvectors, fractions and radicals, PDF export and Android deployment.
+---
 
-###  Titan Prediction Engine
+## 🎯 Currently
 
-A Python-based machine learning project focused on financial market data, feature engineering, prediction and model validation.
+* 🎓 Studying Statistics at Ankara University
+* 🐍 Improving my Python skills
+* 📊 Learning data analysis and statistical programming
+* 🤖 Exploring machine learning and time-series modeling
+* 📱 Developing and maintaining mobile applications
+* 🔧 Building projects to turn what I learn into practical applications
 
-##  Currently Learning
+---
 
-* Python
-* Data Analysis
-* Machine Learning
-* Time Series Analysis
-* Financial Data Analysis
-* Software Development
+## 📫 Contact
 
-##  Goals
-
-Build practical software projects while combining my background in statistics with programming and machine learning.
+GitHub: [@mustafauluturk010](https://github.com/mustafauluturk010)
