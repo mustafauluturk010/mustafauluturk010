@@ -1,12 +1,12 @@
 # Hi, I'm Mustafa 👋
 
-🎓 Statistics student at Ankara University
-💻 Interested in Python, Data Science, Machine Learning and Software Development
-📊 Combining statistics and programming to build practical projects
+ Statistics student at Ankara University
+ Interested in Python, Data Science, Machine Learning and Software Development
+ Combining statistics and programming to build practical projects
 
-## 🚀 What I'm Working With
+##  What I'm Working With
 
-### 📊 Data & Statistics
+### Data & Statistics
 
 * Python
 * NumPy
@@ -15,7 +15,7 @@
 * Statistical Analysis
 * Data Visualization
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 * Scikit-learn
 * Feature Engineering
@@ -23,7 +23,7 @@
 * Time Series Analysis
 * Financial Data
 
-### 📱 Application Development
+###  Application Development
 
 * React Native
 * Expo
@@ -32,26 +32,26 @@
 * PDF Generation
 * AdMob
 
-### 🛠️ Tools
+###  Tools
 
 * Git
 * GitHub
 * VS Code
 * npm
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 📱 Matrix Calculator
+###  Matrix Calculator
 
 A mobile matrix calculator built with React Native and Expo.
 
 Features include matrix operations, eigenvalues and eigenvectors, fractions and radicals, PDF export and Android deployment.
 
-### 🤖 Titan Prediction Engine
+###  Titan Prediction Engine
 
 A Python-based machine learning project focused on financial market data, feature engineering, prediction and model validation.
 
-## 📚 Currently Learning
+##  Currently Learning
 
 * Python
 * Data Analysis
@@ -60,6 +60,6 @@ A Python-based machine learning project focused on financial market data, featur
 * Financial Data Analysis
 * Software Development
 
-## 🎯 Goals
+##  Goals
 
 Build practical software projects while combining my background in statistics with programming and machine learning.
