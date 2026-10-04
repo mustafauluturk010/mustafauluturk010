@@ -6,7 +6,7 @@ I'm currently improving my Python skills and working on projects that combine st
 
 ---
 
-##  Featured Project — Matrix Calculator
+## Featured Project — Matrix Calculator
 
 **Matrix Calculator** is a mobile application I developed with **React Native, Expo, and TypeScript**.
 
@@ -35,7 +35,34 @@ The application is available on **Google Play** and is actively developed.
 
 ---
 
-##  What I'm Learning
+## Stock Statistical Analyzer
+
+**Stock Statistical Analyzer** is a Python project I built while learning Python and statistics.
+
+I started with a simple price dataset and gradually turned it into a small financial analysis project.
+
+### What it can do
+
+* Statistical analysis with Pandas
+* Moving averages (MA3 / MA5 / MA7)
+* BUY / SELL / HOLD signals
+* Strategy return calculations
+* Portfolio simulation
+* Risk analysis
+* Maximum Drawdown
+* Sharpe Ratio
+* Risk / return comparison
+* Z-Score and outlier analysis
+* Statistical tests and visualizations
+* Strategy scoring and comparison
+
+The current **V1** focuses on learning and building the analysis system from scratch. Future versions will focus on real market data and more advanced analysis.
+
+**Repository:** [Stock Statistical Analyzer](https://github.com/mustafauluturk010/stock-statistical-analyzer)
+
+---
+
+## What I'm Learning
 
 ### Python & Data
 
@@ -65,7 +92,7 @@ The application is available on **Google Play** and is actively developed.
 
 ---
 
-##  Current Work
+## Current Work
 
 ### Titan Prediction Engine
 
@@ -75,17 +102,17 @@ The project is currently being developed privately with a friend.
 
 ---
 
-##  Currently
+## Currently
 
-*  Studying Statistics at Ankara University
-*  Improving my Python skills
-*  Learning data analysis and statistical programming
-*  Exploring machine learning and time-series modeling
-*  Developing and maintaining mobile applications
-*  Building projects to turn what I learn into practical applications
+* Studying Statistics at Ankara University
+* Improving my Python skills
+* Learning data analysis and statistical programming
+* Exploring machine learning and time-series modeling
+* Developing and maintaining mobile applications
+* Building projects to turn what I learn into practical applications
 
 ---
 
-##  Contact
+## Contact
 
 GitHub: [@mustafauluturk010](https://github.com/mustafauluturk010)
