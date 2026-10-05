@@ -2,69 +2,68 @@
 
 I'm a **Statistics student at Ankara University** interested in software development, data analysis, and machine learning.
 
-I'm currently improving my Python skills and working on projects that combine statistics with programming.
+I'm currently improving my Python skills and building projects that combine statistics with programming.
 
 ---
 
-## Featured Project — Matrix Calculator
+## Projects
 
-**Matrix Calculator** is a mobile application I developed with **React Native, Expo, and TypeScript**.
+### Matrix Calculator
 
-The app is designed as a practical tool for students and anyone working with linear algebra and matrix calculations.
+**Android / React Native / TypeScript**
 
-### What it can do
+A mobile application for matrix and linear algebra calculations.
+
+**Features include:**
 
 * Matrix operations up to **6×6**
-* Matrix addition, subtraction, and multiplication
-* Determinant and inverse calculations
-* Rank and RREF
+* Determinant, inverse, rank, and trace
+* RREF and Gaussian elimination
 * LU decomposition
 * Eigenvalues and eigenvectors
 * Linear system solving
-* Exact fractions and radical expressions
-* Complex number calculations
-* Step-by-step calculation results
+* Fractions, radicals, and complex numbers
+* Step-by-step calculations
 * Calculation history and saved matrices
-* PDF export and sharing
-* Multiple display and number formats
-* Dark/light interface options
+* PDF and LaTeX export
+* Light and dark themes
+* Turkish and English support
 
-The application is available on **Google Play** and is actively developed.
+Available on **Google Play**.
 
 **Repository:** [Matrix Calculator](https://github.com/mustafauluturk010/matrix-calculator)
 
 ---
 
-## Stock Statistical Analyzer
+### Stock Statistical Analyzer
 
-**Stock Statistical Analyzer** is a Python project I built while learning Python and statistics.
+**Python / Pandas / NumPy / Matplotlib**
 
-I started with a simple price dataset and gradually turned it into a small financial analysis project.
+A statistical and financial data analysis project built while learning Python and statistics.
 
-### What it can do
+**Features include:**
 
 * Statistical analysis with Pandas
 * Moving averages (MA3 / MA5 / MA7)
 * BUY / SELL / HOLD signals
-* Strategy return calculations
+* Trading strategy comparisons
 * Portfolio simulation
-* Risk analysis
+* Risk and return analysis
 * Maximum Drawdown
 * Sharpe Ratio
-* Risk / return comparison
 * Z-Score and outlier analysis
-* Statistical tests and visualizations
-* Strategy scoring and comparison
+* Statistical tests
+* Data visualization
 
-The current **V1** focuses on learning and building the analysis system from scratch. Future versions will focus on real market data and more advanced analysis.
+The current **V1** focuses on building the analysis system and applying statistical concepts in Python. Future versions will focus on real market data and more advanced analysis.
 
 **Repository:** [Stock Statistical Analyzer](https://github.com/mustafauluturk010/stock-statistical-analyzer)
 
 ---
 
-## What I'm Learning
+## Currently Learning
 
-### Python & Data
+### Python & Data Analysis
 
 * Python
 * NumPy
@@ -108,8 +107,8 @@ The project is currently being developed privately with a friend.
 * Improving my Python skills
 * Learning data analysis and statistical programming
 * Exploring machine learning and time-series modeling
-* Developing and maintaining mobile applications
-* Building projects to turn what I learn into practical applications
+* Developing mobile applications
+* Building projects to apply what I learn
 
 ---
 
